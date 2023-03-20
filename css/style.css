@@ -7,7 +7,7 @@ body {
   
   /* Header styles */
   header {
-    background-color: #333;
+    background-color: #8df35e;
     color: #fff;
     padding: 10px;
   }
@@ -58,7 +58,7 @@ body {
   
   .btn {
     display: inline-block;
-    background-color: #333;
+    background-color: #8df35e;
     color: #fff;
     padding: 10px 20px;
     border-radius: 5px;
