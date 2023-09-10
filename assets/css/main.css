@@ -79,6 +79,16 @@ input, select, textarea {
 		color: #4eb980;
 	}
 
+	ul.list li{
+		display: inline;
+	  }
+
+	.part-logo{
+		height: 60px;
+		margin-right: 60px;
+		margin-left: 120px;
+	}
+
 	html {
 		box-sizing: border-box;
 	}
